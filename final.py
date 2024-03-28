@@ -32,12 +32,12 @@ def main():
     print("Thanks for playing!")
 
 
-
 # Function to display the title of the game, as well as the instructions.
 # Thid function does not take any arguments, and does not return any values.
 def display_title():
     print("+-----------------------------+\n|    Guess the Number Game    |\n+-----------------------------+\n")
     print("I am thinking of a number between 1 and 10. Can you guess it?\n")
+
 
 # Function that handles the main game loop.
 # This function does not take any arguments, and does not return any values.
